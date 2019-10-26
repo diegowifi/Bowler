@@ -59,6 +59,11 @@ cd bowler
 python setup.py install
 ```
 
+Bowler in action
+-------
+
+[![asciicast](https://asciinema.org/a/txpYgkb4tdQxvK2od9evzlVov.svg)](https://asciinema.org/a/txpYgkb4tdQxvK2od9evzlVov)
+
 
 License
 -------
